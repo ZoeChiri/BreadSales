@@ -38,8 +38,7 @@ Key findings include:
 - Farmers market C generates the most amount of revenue
 - Challah and Pumpkin breads do the best during September/October months
 
-## Dashboard WIP
+## Dashboard
 Practice Dashboard
-<img width="1013" alt="Screenshot 2024-09-30 at 1 51 34 PM" src="https://github.com/user-attachments/assets/b3ceffbb-2dbf-4201-a67a-ae21cd208d75">
 
-
+<img width="659" alt="Screenshot 2024-10-01 at 10 38 07 AM" src="https://github.com/user-attachments/assets/f8fec657-1810-4de4-9148-ad6773e24046">
